@@ -1,0 +1,2 @@
+# Stars
+the stars view
